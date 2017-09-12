@@ -1,1 +1,1 @@
-# ng-rx-recipe-book
+# ng-recipe-book
